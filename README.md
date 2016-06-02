@@ -1,16 +1,21 @@
 # A DIY Movie Recommender System with Collaborative Filtering
 The project is a DIY movie recommender system by using collaborative filtering.
+
+---
 ```
 MovieRunnerAverage
 ```
 
 Recommend movies based on the average scores from the past movie database rating data.
 
+---
 ```
 MovieRunnerWithFilters
 ```
 
 Recommend movies based on the average scores from the past movie database rating data. Plus, the movies can be filted by given Filters. For example, Filters can be year filter (e.g. after 2001), genre filter (e.g. "Comedy"), etc. 
+
+---
 ```
 MovieRunnerSimilarRatings
 ```
