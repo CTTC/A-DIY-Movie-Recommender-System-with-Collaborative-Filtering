@@ -1,5 +1,5 @@
 # A DIY Movie Recommender System with Collaborative Filtering
-The project is a DIY movie recommender system by using collaborative filtering.
+The project is a DIY movie recommender system by using collaborative filtering. It used hashmap to store data so as to make search more efficient. And several filters are designed so as to meet user's specific requirements for movies.
 
 ---
 ```
